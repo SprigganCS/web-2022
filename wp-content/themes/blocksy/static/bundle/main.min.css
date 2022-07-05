@@ -1511,7 +1511,7 @@ label:last-child {
 
 @font-face {
   font-family: "star";
-  src: url("http://spriggancs.github.io/web-2022/wp-content/themes/blocksy/static/fonts/stars.woff2") format("woff2");
+  src: url("./../fonts/stars.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;

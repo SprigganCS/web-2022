@@ -1275,7 +1275,7 @@
   position: relative;
 }
 .ct-image-picker[data-state=sync] li:first-child:after {
-  background: url(http://spriggancs.github.io/web-2022/wp-content/themes/blocksy/static/images/sync.svg);
+  background: url(./../images/sync.svg);
   position: absolute;
   top: calc(50% - 5px);
   content: "";
